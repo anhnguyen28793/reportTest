@@ -1,0 +1,31 @@
+{
+    hits: [
+        {
+            accountNo: '00010001',
+            country: 'Viet Nam',
+            custodyCode: '021C211081',
+            customerId: '0001114304',
+            customerType: 'User',
+            exDividendDate: 'string',
+            executionDate: '2019-08-14',
+            expirationDate: '2019-08-15',
+            id: 'string',
+            parValue: 0,
+            recordDate: '2019-08-15',
+            recordQuantity: 100,
+            rightCode: 'string',
+            rightName: 'string',
+            rightPrice: 1000000,
+            rightQuantity: 10,
+            rightRatio: '4/3',
+            rightType: 'Sinh nhật VNDIRECT',
+            rightValue: 10000000,
+            status: 'string',
+            symbol: 'string',
+            taxRate: 0
+        }
+    ],
+    pageIndex: 0,
+    pageSize: 0,
+    total: 0
+}
